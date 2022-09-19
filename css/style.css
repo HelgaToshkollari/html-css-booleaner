@@ -8,6 +8,11 @@ header{
     background-color: rgb(139, 178, 249);
     
 }
+.title{
+    font-size: 40px;
+    margin: auto;
+}
+
 #logo{
     width: 350px;
     padding: 20px;
@@ -16,21 +21,40 @@ header{
 #booleaner{
     color: rgb(57, 178, 243);
 }
-.sotto-titolo{
+.subtitle{
     color: rgb(93, 96, 97);
 }
 .info-img{
     font-size: 12px;
+   
 }
+
 table {
     width: 100%;
     border-collapse:collapse;
     text-align: left;
-  }
-.table-head{
+}
+.table-header{
     background-color: rgb(84, 175, 245);
     color: rgba(250, 252, 253, 0.944);
 }
 .blue{
     background-color: rgb(172, 218, 235);
+}
+.highlight{
+   background-color: rgb(227, 217, 104);
+}
+.graph{
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+    color: white;
+    text-align: center;
+}
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 311px;
+    height: 207px;
+    color: white;
+    text-align: center;
 }
