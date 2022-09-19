@@ -1,0 +1,36 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+header{
+    width: 100%;
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(139, 178, 249);
+    
+}
+#logo{
+    width: 350px;
+    padding: 20px;
+    margin-top: 50px;   
+}
+#booleaner{
+    color: rgb(57, 178, 243);
+}
+.sotto-titolo{
+    color: rgb(93, 96, 97);
+}
+.info-img{
+    font-size: 12px;
+}
+table {
+    width: 100%;
+    border-collapse:collapse;
+    text-align: left;
+  }
+.table-head{
+    background-color: rgb(84, 175, 245);
+    color: rgba(250, 252, 253, 0.944);
+}
+.blue{
+    background-color: rgb(172, 218, 235);
+}
